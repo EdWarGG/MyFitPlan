@@ -1,3 +1,4 @@
+![MyFitPlan Banner](pictures/MyFitPlan-Banner.png)
 # MyFitPlan
 
 Aplicación Android para la gestión de rutinas de entrenamiento y alimentación. Permite crear, editar y eliminar rutinas personalizadas, con integración con Google Calendar para programar sesiones.
@@ -21,6 +22,10 @@ Aplicación Android para la gestión de rutinas de entrenamiento y alimentación
 - Visualización de foto de perfil, nombre de usuario, estado, fecha de nacimiento, altura, peso y grasa corporal
 - Edición completa del perfil
 
+### Ajustes
+- Compartir la aplicación, borrar datos de perfil, de ejercicios o de alimentación
+- Acerca de
+
 ### Navegación
 - Splash screen con logo al iniciar la aplicación
 - Barra de navegación inferior con secciones de Ejercicio, Alimentación y Ajustes
@@ -37,14 +42,12 @@ Aplicación Android para la gestión de rutinas de entrenamiento y alimentación
 
 ---
 
-## Capturas de pantalla
-
-> *Próximamente*
-
----
 
 ## Instalación
-
+### Primer método:
+1. Ve al apartado de Releases en el repositorio:
+2. Descarga el .apk o el código fuente
+### Segundo método:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/EdWarGG/MyFitPlan.git
